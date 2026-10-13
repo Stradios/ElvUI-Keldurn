@@ -1,0 +1,7 @@
+## Interface: 11200
+## Title: KeldurnProbe
+## Notes: Reports which Blizzard globals, frame methods, events and Lua features exist on the Keldurn client. Type /kprobe.
+## Version: 0.1
+## SavedVariables: KeldurnProbeDB
+
+KeldurnProbe.lua
